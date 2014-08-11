@@ -1,0 +1,8 @@
+.*
+*.sw?
+*.fastq*
+*/bin.tgz
+*.zip
+FastQC*
+*_lonestar.json
+*_out/
